@@ -1,6 +1,6 @@
 {
   "name": "log-stomp",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A log module that sends its messages to a STOMP server (e.g. ActiveMQ)",
   "keywords": ["stomp", "log"],
   "main": "logstomp.js",
