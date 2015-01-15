@@ -1,0 +1,19 @@
+{
+  "name": "log-stomp",
+  "version": "0.0.2",
+  "description": "A log module that sends its messages to a STOMP server (e.g. ActiveMQ)",
+  "keywords": ["stomp", "log"],
+  "main": "logstomp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fritz Mahnke <fritz@fritzmahnke.com>",
+  "license": "MIT",
+  "dependencies": {
+    "stomp-client": "^0.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fmahnke/node-log-stomp"
+  }
+}
